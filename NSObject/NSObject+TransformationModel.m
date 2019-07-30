@@ -1,5 +1,6 @@
 //
 //  NSObject+TransformationModel.m
+//  简单实现一下，需要高性能可以使用YYModel
 //
 //  Created by Devil on 2019/2/14.
 //  Copyright © 2019 Devil. All rights reserved.
